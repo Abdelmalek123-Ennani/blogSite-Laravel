@@ -1,3 +1,8 @@
+### 📜: Screenshots from the project :
+<img src="https://raw.githubusercontent.com/Abdelmalek123-Ennani/blogSite-Laravel/master/public/images/github_1.PNG" />
+
+<img src="https://raw.githubusercontent.com/Abdelmalek123-Ennani/blogSite-Laravel/master/public/images/github_2.PNG" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
