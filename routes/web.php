@@ -15,9 +15,10 @@ use App\Http\Controllers\CommentController;
 |
 */
 
+// the main Route (provided by laravel ==> written by abdelmalek)
 Route::get('/' , [PagesController::class , "index"]);
 
-// for blog
+// for blog route
 Route::resource('/blog' , PostController::class);
 
 // for comments
