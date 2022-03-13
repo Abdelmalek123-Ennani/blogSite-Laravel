@@ -1,4 +1,4 @@
-### 📜: Screenshots from the project :
+### 📜: Screenshots from the project:
 <img src="https://raw.githubusercontent.com/Abdelmalek123-Ennani/blogSite-Laravel/master/public/images/github_1.PNG" />
 
 <img src="https://raw.githubusercontent.com/Abdelmalek123-Ennani/blogSite-Laravel/master/public/images/github_2.PNG" />
